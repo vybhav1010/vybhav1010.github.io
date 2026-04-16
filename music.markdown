@@ -7,7 +7,8 @@ permalink: /music/
 I write music in my free time. Much of what I write is in a neo-classical/neo-romantic style. I tend to stick to the structures of those periods but I try not to hold on too tightly to all the rules. 
 
 
-[jekyll-organization]: https://github.com/jekyll
+[jekyllrb.com](https://jekyllrb.com/)
+
 
 All of my music can be found on my [YouTube]: (https://www.youtube.com/channel/UCbVVKn61VIA2Tu273pbiZPQ) channel.
 
