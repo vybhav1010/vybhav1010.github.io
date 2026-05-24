@@ -4,9 +4,9 @@ title:  "The Introduction to Tchaikovsky's First Piano Concerto - Part I"
 date:   2026-05-23 22:11:19 -0400
 ---
 
-<h2> The Introduction to Tchaikovsky's First Piano Concerto - Part I </h2>
+ Introduction to Tchaikovsky's First Piano Concerto - Part I 
 
-<h4>
+
 
 Tchaikovsky's first piano concerto is among his most celebrated works, in large part due to the masterful and wonderful introduction to the first movement, four whole minutes in length. We are greeted first by stately descending horn call accompanied by powerful tutti chords in the home key, then swiftly taken to the relative major (D♭), where we hear the piano make its entrance with long block chords ascending upwards underneath the soaring theme in the strings. 
 
@@ -36,20 +36,18 @@ At this point, given that the tonic isn't even established, you might be wonderi
 
 
 ![image](images/tchaik-p.c-1/horn-call.png)
-</h4>
 
-<h6>
 (The theme in question)
-</h6>
+
 
 After completing our modulation to D♭ major, we move straight into the second theme, but not before we pass through the horn call motif again, now in D♭ major and in the strings!
 The actual theme that follows is remarkable not only for the famous melody, but for its tonal stability, in sharp contrast with the first theme. Chords change roughly once every two measures, and we don't get anything out of the ordinary at first: only I, ii, and V chords. In Measure 20, we have a surprise F major chord, perhaps to keep us on our toes, but this oddity leaves as soon as it comes in, and we descend down the circle of fifths back to D♭major in a perfect cadence.
 
 
 ![image](images/tchaik-p.c-1/transition-echo.png)
-<h6>
+
 The opening call now in D♭
-</h6>
+
 
 
 When the piano takes up the theme, the harmony remains stable until the piano begins to build up to a climax, propelled forward by an accelerando. In a traditional sonata form, at this point we would expect perhaps a coda in D♭ major, before heading into a developmental section, but we're never really given a proper conclusion to the second theme. Instead, we're taken on a harmonic whirlwind, as follows:
