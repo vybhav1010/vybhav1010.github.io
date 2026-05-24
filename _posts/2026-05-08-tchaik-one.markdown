@@ -35,7 +35,7 @@ The first thing to jump out at you was probably how short the first theme is. Fi
 At this point, given that the tonic isn't even established, you might be wondering if it's really justified to call the opening F-D♭-C-B♭ horn call a full fledged theme, but I think the motif is special enough to be given a special designation. It's short, memorable, and most importantly, plays a key role in the rest of the introduction.
 
 
-![image]({{site.baseurl}}images/tchaik-p.c-1/horn-call.png)
+![image]({{site.baseurl}}/images/tchaik-p.c-1/horn-call.png)
 </h4>
 
 <h6>
@@ -46,7 +46,7 @@ After completing our modulation to D♭ major, we move straight into the second 
 The actual theme that follows is remarkable not only for the famous melody, but for its tonal stability, in sharp contrast with the first theme. Chords change roughly once every two measures, and we don't get anything out of the ordinary at first: only I, ii, and V chords. In Measure 20, we have a surprise F major chord, perhaps to keep us on our toes, but this oddity leaves as soon as it comes in, and we descend down the circle of fifths back to D♭major in a perfect cadence.
 
 
-![image]({{site.baseurl}}images/tchaik-p.c-1/transition-echo.png)
+![image](images/tchaik-p.c-1/transition-echo.png)
 <h6>
 The opening call now in D♭
 </h6>
@@ -56,7 +56,7 @@ When the piano takes up the theme, the harmony remains stable until the piano be
 
 b°7/D — A♭7/E♭ — d♭°* — D♭ — B♭/F — e♭/G♭ — C/G—f/A♭(!!)
 
-![image]({{site.baseurl}}images/tchaik-p.c-1/expo-modulatory-sequence.png)
+![image]({{site.baseurl}}/images/tchaik-p.c-1/expo-modulatory-sequence.png)
 
 
 The starred D♭ diminished chord has an added A♭to it, which perhaps serves to ease the transition between it and the D ♭major chord right after, but is still quite bizarre (and certainly more dissonant)! This sequence is especially of note because the destination, F minor is actually closer to D♭major than the intermediate step of E-flat minor. This modulation doesn't take us somewhere else, but most certainly disorients our sense of tonality in preparation for the highly chromatic cadenza, the pseudo-development section.
