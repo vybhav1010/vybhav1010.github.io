@@ -26,17 +26,17 @@ This isn't too precise—I've lumped in transitional parts with the preceding se
 Additionally, note that measure 85 is in fact not when the "actual" first movement begins. The long transitional section characterized by fragmented and chromatic piano lines over soft and sustained brass chords which follows is not really all that related thematically to the rest of the introduction. 
 
 The first thing to jump out at you was probably how short the first theme is. Five measures is usually not even enough to state a full melody, but by measure six we've left the tonic? How did he do it? If you guessed tonal instability would be right! The first tutti chord is a B♭minor seventh chord, with the seventh in the bass, and the second chord is a B♭minor chord with a G natural in the bass. We never have a root position tonic chord, let alone any sort of cadence. 
-
+</h4>
 
 ![image]({{site.baseurl}}/images/tchaik-p.c-1/opening_string_chords.png)
 
 
-
+<h4>
 At this point, given that the tonic isn't even established, you might be wondering if it's really justified to call the opening F-D♭-C-B♭ horn call a full fledged theme, but I think the motif is special enough to be given a special designation. It's short, memorable, and most importantly, plays a key role in the rest of the introduction.
-
+</h4>
 
 ![image]({{site.baseurl}}/images/tchaik-p.c-1/horn-call.png)
-</h4>
+
 
 <h6>
 (The theme in question)
@@ -46,7 +46,7 @@ After completing our modulation to D♭ major, we move straight into the second 
 The actual theme that follows is remarkable not only for the famous melody, but for its tonal stability, in sharp contrast with the first theme. Chords change roughly once every two measures, and we don't get anything out of the ordinary at first: only I, ii, and V chords. In Measure 20, we have a surprise F major chord, perhaps to keep us on our toes, but this oddity leaves as soon as it comes in, and we descend down the circle of fifths back to D♭major in a perfect cadence.
 
 
-![image](images/tchaik-p.c-1/transition-echo.png)
+![image]({{site.baseurl}}/images/tchaik-p.c-1/transition-echo.png)
 <h6>
 The opening call now in D♭
 </h6>
