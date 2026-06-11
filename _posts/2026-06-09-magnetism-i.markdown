@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Magnetism I - Lorentz, Biot-Savart, Cyclotrons, and DC Motors"
+date:   2026-06-09 22:11:19 -0400
+seo_title: Vybhav Velamoor Tchaikovsky First Piano Concerto Score Music Analysis
+mathjax: true
+---
+
+
 Magnetism I - Lorentz, Biot-Savart, Cyclotrons, and DC Motors.
 
 I'm currently working through R. Shankar's Fundamentals of Physics II, and I'm planning on making a series of posts detailing what I've learned, of which this is the first. We'll discuss magnetic fields and some of their applications. Without further ado, let's jump in!
