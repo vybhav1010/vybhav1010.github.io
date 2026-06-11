@@ -20,8 +20,9 @@ $$\bf{F} = q\bf{v} × \bf{B}$$
 
 
 
-
 This is a rather strange formula. The first thing of note is that this force depends on the velocity. Neither the gravitational force nor the electric force had this property; both depended only on the mass and charge of the particle respectively. Secondly, the force always acts perpendicular to the velocity of the object. This means that $F · d\bf{v}$ is always zero, and thus no work is done by the magnetic force on the particle. We can therefore deduce that a particle affected only by the magnetic field moves with constant velocity. If the field is uniform, we may also say that the particle undergoes uniform circular motion. Suppose we put a particle of charge q in a magnetic field of magnitude $B$, and give it a velocity $\bf{v}$. Then, the force will "follow" the particle, keeping the acceleration radially inward. If $\bf{B}$ is uniform, the acceleration is uniform, and so the particle undergoes uniform circular motion. 
+
+![image]({{site.baseurl}}/images/magnetism-i/orbit.png)
 
 
 We can solve this equation to find the frequency of the orbit. We have:
@@ -34,6 +35,8 @@ v=\frac{qBR}{m}=\frac{2πR}{T} = ωR \\
 
 
 This is called the cyclotron frequency, and it is key that it is independent of both the radius of the orbit and the speed of the orbit, a consequence of the curious factor of v present in the formula for the magnetic force. In fact, we can use this fact to construct our very own particle accelerator, called the cyclotron.  Take two plates charged to +Q and -Q, and establish a $\bf{B}$ field outside the plates as shown in the picture. Now, place a charge q near the positive plate. It will fall towards the negative plate, picking up speed. Once it passes through, the $E$ field will drop to zero (by to Gauss' law). So, the particle completes half a cyclotron orbit. We must now swap the polarities of the plates, and while difficult, we can do this autonomously due to the constancy of $ω$. The particle then falls through again and again until it is ready to be launched. 
+
+![image]({{site.baseurl}}/images/magnetism-i/cyclotron.png)
 
 We've been considering a particle acting under the presence of only a magnetic field, but electric fields can act on it as well. We write the combined force as:
 
@@ -58,8 +61,13 @@ To find the total force on a wire, we integrate this expression. If the wire is 
 
 $$F = Il × \bf{B}$$
 
+![image]({{site.baseurl}}/images/magnetism-i/wire.png)
+
 
 Suppose we have a rectangular loop of current in a uniform magnetic field. Because each side has an opposing side which carries current in the opposite direction, the net force on it is zero. However, the  net torque on the loop about the center of the loop is not zero if the loop is not perfectly perpendicular to the field. We define a new vector 𝜇 (the magnetic moment), perpendicular to the plane of the loop (direction is determined by curling the right hand in the direction of the current), whose magnitude is the $IA$, where $I$ is the current and $A$ is the area of the loop. In the case of the loop, it's not difficult to verify that the torque is equal to $𝜇 × \bf{B}$, so the loop reaches a stable equilibrium when $𝜇$ is aligned with $\bf{B}$ (The result holds more generally as well).
+
+
+![image]({{site.baseurl}}/images/magnetism-i/loop.png)
 
 We can use this torque to create what is known as the DC motor.  We begin by establishing a uniform magnetic field (either through a bar magnet, or something else), and placing a current loop, driven by an external battery in this field. If we leave it alone, it will rotate until $𝜇$ is aligned with $\bf{B}$.  But, we want our motor to rotate in perpetuity. To reverse the direction of the torque, we must reverse the direction of the current, thus reversing the direction of $𝜇$. This is difficult though, we can't simply swap the wires in the battery each time the loop makes a turn. The solution is a device known as a commutator. We hook up the wires of the loop onto a springloaded disk, cut in the middle. Each is connected loosely to metallic brushes from the positive and negative terminals respectively. After a half revolution, the brushes will be connected to the other semicircular disk. The current will then switch, as we wished.
 
