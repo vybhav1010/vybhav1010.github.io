@@ -12,30 +12,30 @@ Magnetism I - Lorentz, Biot-Savart, Cyclotrons, and DC Motors.
 I'm currently working through R. Shankar's Fundamentals of Physics II, and I'm planning on making a series of posts detailing what I've learned, of which this is the first. We'll discuss magnetic fields and some of their applications. Without further ado, let's jump in!
 
 
-Similar to the electric case, calculating magnetic forces is a two step process. First, we must find the magnetic field **B**, at a certain point in space, and then we must compute the force F on that object. From there,  it is possible (in theory at least) to calculate the full trajectory of that particle. In this post, we will deal purely with the second stage of this process, the force on a particle with a known **B** field. This is given by:
+Similar to the electric case, calculating magnetic forces is a two step process. First, we must find the magnetic field $\bf{B}$, at a certain point in space, and then we must compute the force F on that object. From there,  it is possible (in theory at least) to calculate the full trajectory of that particle. In this post, we will deal purely with the second stage of this process, the force on a particle with a known $\bf{B}$ field. This is given by:
 
 
-$$F = q **v** × B$$
+$$\bf{F} = q\bf{v} × \bf{B}$$
 
 
 
 
 
-This is a rather strange formula. The first thing of note is that this force depends on the velocity. Neither the gravitational force nor the electric force had this property; both depended only on the mass and charge of the particle respectively. Secondly, the force always acts perpendicular to the velocity of the object. This means that F · dv is always zero, and thus no work is done by the magnetic force on the particle. We can therefore deduce that a particle affected only by the magnetic field moves with constant velocity. If the field is uniform, we may also say that the particle undergoes uniform circular motion. Suppose we put a particle of charge q in a magnetic field of magnitude B, and give it a velocity v. Then, the force will "follow" the particle, keeping the acceleration radially inward. If **B** is uniform, the acceleration is uniform, and so the particle undergoes uniform circular motion. 
+This is a rather strange formula. The first thing of note is that this force depends on the velocity. Neither the gravitational force nor the electric force had this property; both depended only on the mass and charge of the particle respectively. Secondly, the force always acts perpendicular to the velocity of the object. This means that $F · dv$ is always zero, and thus no work is done by the magnetic force on the particle. We can therefore deduce that a particle affected only by the magnetic field moves with constant velocity. If the field is uniform, we may also say that the particle undergoes uniform circular motion. Suppose we put a particle of charge q in a magnetic field of magnitude B, and give it a velocity v. Then, the force will "follow" the particle, keeping the acceleration radially inward. If $\bf{B}$ is uniform, the acceleration is uniform, and so the particle undergoes uniform circular motion. 
 
 
 We can solve this equation to find the frequency of the orbit. We have:
 
-qvB = mv2/R
-v=qBR/m=2πR/T = ωR
-qB/m=ω 
+$$qvB = \frac{mv^2}{R}$$
+$$v=\frac{qBR}{m}=\frac{2πR}{T} = ωR$$
+$$ω = \frac{qB}{m}$$
 
 
-This is called the cyclotron frequency, and it is key that it is independent of both the radius of the orbit and the speed of the orbit, a consequence of the curious factor of v present in the formula for the magnetic force. In fact, we can use this fact to construct our very own particle accelerator, called the cyclotron.  Take two plates charged to +Q and -Q, and establish a **B** field outside the plates as shown in the picture. Now, place a charge q near the positive plate. It will fall towards the negative plate, picking up speed. Once it passes through, the E field will drop to zero (due to Gauss' law). So, the particle completes half a cyclotron orbit. We must now swap the polarities of the plates, and while difficult, we can do this autonomously due to the constancy of  ω. The particle then falls through again and again until it is ready to be launched. 
+This is called the cyclotron frequency, and it is key that it is independent of both the radius of the orbit and the speed of the orbit, a consequence of the curious factor of v present in the formula for the magnetic force. In fact, we can use this fact to construct our very own particle accelerator, called the cyclotron.  Take two plates charged to +Q and -Q, and establish a $\bf{B}$ field outside the plates as shown in the picture. Now, place a charge q near the positive plate. It will fall towards the negative plate, picking up speed. Once it passes through, the E field will drop to zero (due to Gauss' law). So, the particle completes half a cyclotron orbit. We must now swap the polarities of the plates, and while difficult, we can do this autonomously due to the constancy of  ω. The particle then falls through again and again until it is ready to be launched. 
 
 We've been considering a particle acting under the presence of only a magnetic field, but electric fields can act on it as well. We write the combined force as:
 
-F = q(E + v × B),
+$$\bf{F} = q(\bf{E} + \bf{v} × \bf{B})$$,
 
 known as the Lorentz force. 
 
