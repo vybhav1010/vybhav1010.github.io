@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Magnetism I - Lorentz, Biot-Savart, Cyclotrons, and DC Motors"
+title:  "Magnetism I - Lorentz Cyclotrons, and DC Motors"
 date:   2026-06-09 22:11:19 -0400
 seo_title: Vybhav Velamoor Tchaikovsky First Piano Concerto Score Music Analysis
 mathjax: true
