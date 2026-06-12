@@ -47,6 +47,7 @@ whitelist:
   - jekyll-seo-tag
 
 environment: production
+google_site_verification: "dAvt_djdPkbrrNzP_vBWeChlU17VNc-MawJj52Dy0Yo"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
