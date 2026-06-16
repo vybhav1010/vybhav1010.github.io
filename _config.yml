@@ -68,10 +68,3 @@ google_site_verification: "dAvt_djdPkbrrNzP_vBWeChlU17VNc-MawJj52Dy0Yo"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-header_pages:
-  - index.md
-  - blog.md
-  - about.md
-  - music.md
-  - projects.md
