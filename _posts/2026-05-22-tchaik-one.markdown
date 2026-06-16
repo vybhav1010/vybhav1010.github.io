@@ -10,7 +10,8 @@ mathjax: false
 
 <h4>
 
-[Score]()
+[Recording](https://www.youtube.com/watch?v=2ak5l3y0Bzc) Music starts at ~0:30
+[Score](https://imslp.org/wiki/Piano_Concerto_No.1,_Op.23_(Tchaikovsky,_Pyotr))
 
 Tchaikovsky's first piano concerto is among his most celebrated works, in large part due to the masterful and wonderful introduction to the first movement, four whole minutes in length. We are greeted first by stately descending horn call accompanied by powerful tutti chords in the home key, then swiftly taken to the relative major (D♭), where we hear the piano make its entrance with long block chords ascending upwards underneath the soaring theme in the strings. 
 
