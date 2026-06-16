@@ -6,7 +6,7 @@ seo_title: Vybhav Velamoor Tchaikovsky First Piano Concerto Score Music Analysis
 mathjax: true
 ---
 
-I'm currently working through R. Shankar's Fundamentals of Physics II, and I'm planning on making a series of posts detailing what I've learned, of which this is the first. We'll discuss magnetic fields and some of their applications. Without further ado, let's jump in!
+I'm currently working through [R. Shankar's Fundamentals of Physics II](https://oyc.yale.edu/physics/phys-201), and I'm planning on making a series of posts detailing what I've learned, of which this is the first. We'll discuss magnetic fields and some of their applications. Without further ado, let's jump in!
 
 
 Similar to the electric case, calculating magnetic forces is a two step process. First, we must find the magnetic field $\bf{B}$, at a certain point in space, and then we must compute the force F on that object. From there,  it is possible (in theory at least) to calculate the full trajectory of that particle. In this post, we will deal purely with the second stage of this process, the force on a particle with a known $\bf{B}$ field. This is given by:
@@ -31,7 +31,7 @@ v=\frac{qBR}{m}=\frac{2πR}{T} = ωR \\
 ω = \frac{qB}{m}$$
 
 
-This is called the cyclotron frequency, and it is key that it is independent of both the radius of the orbit and the speed of the orbit, a consequence of the curious factor of v present in the formula for the magnetic force. In fact, we can use this fact to construct our very own particle accelerator, called the cyclotron.  Take two plates charged to +Q and -Q, and establish a $\bf{B}$ field outside the plates as shown in the picture. Now, place a charge q near the positive plate. It will fall towards the negative plate, picking up speed. Once it passes through, the $E$ field will drop to zero (by to Gauss' law). So, the particle completes half a cyclotron orbit. We must now swap the polarities of the plates, and while difficult, we can do this autonomously due to the constancy of $ω$. The particle then falls through again and again until it is ready to be launched. 
+This is called the cyclotron frequency, and it is key that it is independent of both the radius of the orbit and the speed of the orbit, a consequence of the curious factor of v present in the formula for the magnetic force. In fact, we can use this fact to construct our very own particle accelerator, called the [cyclotron](https://en.wikipedia.org/wiki/Cyclotron).  Take two plates charged to +Q and -Q, and establish a $\bf{B}$ field outside the plates as shown in the picture. Now, place a charge q near the positive plate. It will fall towards the negative plate, picking up speed. Once it passes through, the $E$ field will drop to zero (by to Gauss' law). So, the particle completes half a cyclotron orbit. We must now swap the polarities of the plates, and while difficult, we can do this autonomously due to the constancy of $ω$. The particle then falls through again and again until it is ready to be launched. 
 
 ![image]({{site.baseurl}}/images/magnetism-i/cyclotron.png)
 
@@ -66,7 +66,7 @@ Suppose we have a rectangular loop of current in a uniform magnetic field. Becau
 
 ![image]({{site.baseurl}}/images/magnetism-i/loop.png)
 
-We can use this torque to create what is known as the DC motor.  We begin by establishing a uniform magnetic field (either through a bar magnet, or something else), and placing a current loop, driven by an external battery in this field. If we leave it alone, it will rotate until $𝜇$ is aligned with $\bf{B}$.  But, we want our motor to rotate in perpetuity. To reverse the direction of the torque, we must reverse the direction of the current, thus reversing the direction of $𝜇$. This is difficult though, we can't simply swap the wires in the battery each time the loop makes a turn. The solution is a device known as a commutator. We hook up the wires of the loop onto a springloaded disk, cut in the middle. Each is connected loosely to metallic brushes from the positive and negative terminals respectively. After a half revolution, the brushes will be connected to the other semicircular disk. The current will then switch, as we wished.
+We can use this torque to create what is known as the [DC motor](https://en.wikipedia.org/wiki/DC_motor).  We begin by establishing a uniform magnetic field (either through a bar magnet, or something else), and placing a current loop, driven by an external battery in this field. If we leave it alone, it will rotate until $𝜇$ is aligned with $\bf{B}$.  But, we want our motor to rotate in perpetuity. To reverse the direction of the torque, we must reverse the direction of the current, thus reversing the direction of $𝜇$. This is difficult though, we can't simply swap the wires in the battery each time the loop makes a turn. The solution is a device known as a commutator. We hook up the wires of the loop onto a springloaded disk, cut in the middle. Each is connected loosely to metallic brushes from the positive and negative terminals respectively. After a half revolution, the brushes will be connected to the other semicircular disk. The current will then switch, as we wished.
 
 We'll discuss the origin of these magnetic fields from moving charges to complete our discussion in the next post.
 
