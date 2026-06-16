@@ -12,5 +12,4 @@ permalink: /blog/
   {{ post.date | date: "%b %d, %Y" }}*
   
   {{ post.excerpt }}
-  ---
 {% endfor %}
