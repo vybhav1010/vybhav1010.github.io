@@ -10,6 +10,8 @@ mathjax: false
 
 <h4>
 
+[Score]()
+
 Tchaikovsky's first piano concerto is among his most celebrated works, in large part due to the masterful and wonderful introduction to the first movement, four whole minutes in length. We are greeted first by stately descending horn call accompanied by powerful tutti chords in the home key, then swiftly taken to the relative major (D♭), where we hear the piano make its entrance with long block chords ascending upwards underneath the soaring theme in the strings. 
 
 Curiously though, neither the themes introduced (the horn call and the famous melody) nor the majestic character of the introduction appear in the rest of the first movement. As a result, it's perhaps more accurate to describe this introduction as a movement of its own as opposed to being a part of the official first movement. You could, after all, fit a whole sonata form into those four minutes. Actually, this is what Tchaikovsky does! The introduction is a (loose) sonata form, with two distinct themes, a development, and a recapitulation. 
