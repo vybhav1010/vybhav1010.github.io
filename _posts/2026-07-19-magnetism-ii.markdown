@@ -64,7 +64,6 @@ $$y = rsin(\theta) = asin(\theta)+ k\theta sin(\theta)$$
 
 
 Then differentiate each with respect to theta, and then divide to find our slope.
-
 $$\dfrac{dx}{d\theta} = -asin(\theta) + k(cos(\theta) - \theta sin(\theta))$$
 
 $$\dfrac{dy}{d\theta} = acos(\theta) + k(sin(\theta) + \theta cos(\theta))$$
