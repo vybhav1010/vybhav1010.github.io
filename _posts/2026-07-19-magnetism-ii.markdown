@@ -26,7 +26,7 @@ Before we analyze this result, I should mention that we can say something about 
 
 Now let's turn our attention back to the sum around a loop: Ampere's Law:
 
-$$\oint \bf{B} \cdot d\bf{l} = \mu_{0}I$$
+$$\oint \bf{B} \cdot d \bf{l} = \mu_{0} I$$
 
 I here is the current piercing the surface enclosed by the loop. Which surface should we pick though? There are an infinite number of surfaces bounded by any given loop. Well, in the case of static currents, a current may not terminate in the middle of nowhere (as that would violate the conservation of charge). Assuming all current carrying wires are infinite, there are two options. A current could penetrate all possible surfaces, or penetrate only a select few.  Suppose a current were to penetrate one surface but not another. Well, since the wire is infinite, this would imply that the current turns around before then. This then creates a corresponding negative contribution to the enclosed current, and so, the amount of current penetrating the surface is unchanged. 
 
@@ -34,7 +34,7 @@ Keep in mind that this argument works only for infinite wires. For finite or sem
 
 
 
-It's not too difficult to show that this holds in the simple case of a singular current and a circular loop. $\oint \bf{B} \cdot d\bf{r} is just 2 \pi RB$, as the field is always azimuthal (i.e. perpendicular). Since $B = \dfrac{\mu_{0}I}{2 \pi R},$ $2 \pi RB = \mu_{0}I$ 
+It's not too difficult to show that this holds in the simple case of a singular current and a circular loop. $\oint \bf{B} \cdot d\bf{r}$ is just $2 \pi RB$, as the field is always azimuthal (i.e. perpendicular). Since $B = \dfrac{\mu_{0}I}{2 \pi R},$ $2 \pi RB = \mu_{0}I$ 
 
 We now must establish that the choice of loop does not matter, and that outside currents do not affect the integral, as shown in the two diagrams below. (If we establish that the choice of loop does not matter, superposition gives us that the law holds for arbitrary number of currents inside)
 
